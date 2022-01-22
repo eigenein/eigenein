@@ -5,5 +5,5 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-white?logo=facebook)](https://www.facebook.com/eigenein/)
 [![Instagram](https://img.shields.io/badge/-Instagram-white?logo=instagram)](https://www.instagram.com/eigenein/)
 [![Telegram](https://img.shields.io/badge/-Telegram-white?logo=telegram)](https://t.me/eigenein/)
-[![ВКонтакте](https://img.shields.io/badge/-ВКонтакте-white?logo=vk)](https://vk.com/eigenein)
+[![ВКонтакте](https://img.shields.io/badge/-ВКонтакте-blue?logo=vk)](https://vk.com/eigenein)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube)](https://www.youtube.com/channel/UCy06Z9HFm1o9zOEfhyiWMjA)
