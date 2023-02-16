@@ -7,3 +7,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-white?logo=telegram)](https://t.me/eigenein/)
 [![ВКонтакте](https://img.shields.io/badge/-ВКонтакте-blue?logo=vk)](https://vk.com/eigenein)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube)](https://www.youtube.com/channel/UCy06Z9HFm1o9zOEfhyiWMjA)
+[![Discord](https://img.shields.io/badge/-Discord-white?logo=discord)](https://discordapp.com/users/854085993959260210)
